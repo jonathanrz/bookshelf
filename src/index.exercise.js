@@ -14,7 +14,7 @@ import * as React from 'react'
 import ReactDOM from 'react-dom'
 // 🐨 you'll need to import some new components that you'll be creating
 // in this file
-import {Button, Input, FormGroup} from './components/lib'
+import {Button, Input, FormGroup, Spinner} from './components/lib'
 import {Modal, ModalContents, ModalOpenButton} from './components/modal'
 import {Logo} from './components/logo'
 
